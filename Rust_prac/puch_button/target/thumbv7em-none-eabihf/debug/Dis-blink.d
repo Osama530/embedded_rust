@@ -1,0 +1,1 @@
+/home/iot-dev/Documents/Rust_prac/puch_button/target/thumbv7em-none-eabihf/debug/Dis-blink: /home/iot-dev/Documents/Rust_prac/puch_button/build.rs /home/iot-dev/Documents/Rust_prac/puch_button/memory.x /home/iot-dev/Documents/Rust_prac/puch_button/src/main.rs memory.x

@@ -1,0 +1,1 @@
+{"rustc":13568843128949978479,"features":"","target":0,"profile":0,"path":0,"deps":[[3086876764277149065,"build_script_build",false,17465297727540562731]],"local":[{"RerunIfChanged":{"output":"thumbv7em-none-eabihf/debug/build/ADC_Callibrate-b824c4bdf1e31ad8/output","paths":["memory.x"]}}],"rustflags":[],"metadata":0}

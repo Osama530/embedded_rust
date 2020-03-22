@@ -1,0 +1,1 @@
+/home/iot-dev/Documents/Rust_prac/delay/target/thumbv7em-none-eabihf/debug/Dis-blink: /home/iot-dev/Documents/Rust_prac/delay/build.rs /home/iot-dev/Documents/Rust_prac/delay/memory.x /home/iot-dev/Documents/Rust_prac/delay/src/main.rs memory.x

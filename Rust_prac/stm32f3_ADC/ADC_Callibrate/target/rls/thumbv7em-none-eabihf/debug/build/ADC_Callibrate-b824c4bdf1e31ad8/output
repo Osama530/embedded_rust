@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/iot-dev/Documents/Rust_prac/stm32f3_ADC/ADC_Callibrate/target/rls/thumbv7em-none-eabihf/debug/build/ADC_Callibrate-b824c4bdf1e31ad8/out
+cargo:rerun-if-changed=memory.x
